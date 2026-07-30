@@ -32,10 +32,7 @@ export {
   useRef,
   useShallowReactive,
   useShallowRef,
-  watch,
-  watchEffect,
-  watchPostEffect,
-  watchSyncEffect
+  watch
 } from "@elfui/reactivity";
 
 export {
@@ -58,7 +55,6 @@ export {
   createInjectionKey,
   defineCustomElement,
   defineExpose,
-  directive,
   ensureCustomElement,
   errorBoundary,
   getConfig,
@@ -72,14 +68,13 @@ export {
   onBeforeUpdate,
   onDeactivated,
   onErrorCaptured,
-  onMount,
-  onUnmount,
+  onMounted,
+  onUnmounted,
   onUpdated,
   provide,
   projectLightDom,
   registerComponents,
   resetConfig,
-  resetDirectives,
   resetGlobalStyles,
   resolveComponentTag,
   theme,
