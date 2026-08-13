@@ -12,12 +12,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bloom-lmh/elfui-extensions.git",
+    "url": "git+https://github.com/bloom-lmh/ElfUI-Extensions.git",
     "directory": "chain"
   },
-  "homepage": "https://github.com/bloom-lmh/elfui-extensions/tree/main/chain",
+  "homepage": "https://github.com/bloom-lmh/ElfUI-Extensions/tree/main/chain",
   "bugs": {
-    "url": "https://github.com/bloom-lmh/elfui-extensions/issues"
+    "url": "https://github.com/bloom-lmh/ElfUI-Extensions/issues"
   },
   "publishConfig": {
     "access": "public"
@@ -45,10 +45,10 @@
     "prepack": "pnpm build"
   },
   "dependencies": {
-    "@elfui/compiler": "0.1.0-beta.20",
-    "@elfui/reactivity": "0.1.0-beta.20",
-    "@elfui/runtime": "0.1.0-beta.20",
-    "@elfui/shared": "0.1.0-beta.20"
+    "@elfui/compiler": "0.1.0-beta.21",
+    "@elfui/reactivity": "0.1.0-beta.21",
+    "@elfui/runtime": "0.1.0-beta.21",
+    "@elfui/shared": "0.1.0-beta.21"
   },
   "license": "MIT",
   "devDependencies": {

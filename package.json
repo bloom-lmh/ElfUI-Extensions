@@ -7,11 +7,11 @@
   "description": "Official extension packages for ElfUI.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bloom-lmh/elfui-extensions.git"
+    "url": "git+https://github.com/bloom-lmh/ElfUI-Extensions.git"
   },
-  "homepage": "https://github.com/bloom-lmh/elfui-extensions",
+  "homepage": "https://github.com/bloom-lmh/ElfUI-Extensions",
   "bugs": {
-    "url": "https://github.com/bloom-lmh/elfui-extensions/issues"
+    "url": "https://github.com/bloom-lmh/ElfUI-Extensions/issues"
   },
   "license": "MIT",
   "scripts": {
